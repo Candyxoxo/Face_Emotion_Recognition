@@ -1,4 +1,4 @@
-````md
+
 # Real-Time Face Emotion Recognition using Deep Learning
 
 A production-ready **real-time facial emotion recognition system** built using **TensorFlow, EfficientNet, and OpenCV**, with a strong emphasis on **deep learning model development, GPU-accelerated training, and real-time deployment with confidence scores**.
